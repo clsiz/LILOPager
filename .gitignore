@@ -1,0 +1,11 @@
+# Node/Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+web-build/
+.DS_Store
+.env
+*.log
+package-lock.json
